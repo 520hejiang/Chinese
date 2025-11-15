@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 基本界面 -->
+    <string name="AppName">Telegram</string>
+    <string name="YourPhone">您的手机号</string>
+    <string name="StartText">欢迎来到官方 Telegram 应用程序。\n\n这是世界上**最快**、**最安全**的消息应用程序，而且完全**免费**。\n\n您可以通过 Telegram 与全世界的朋友和家人保持联系。</string>
+    <string name="KeepMeSignedIn">保持登录</string>
+    <string name="StartMessaging">开始聊天</string>
+    
+    <!-- 聊天界面 -->
+    <string name="TypeMessage">输入消息...</string>
+    <string name="Search">搜索</string>
+    <string name="SearchMessages">搜索消息</string>
+    <string name="Reply">回复</string>
+    <string name="Edit">编辑</string>
+    <string name="Copy">复制</string>
+    <string name="Forward">转发</string>
+    <string name="Delete">删除</string>
+    <string name="DeleteForAll">为所有人删除</string>
+    <string name="DeleteForMe">为我删除</string>
+    
+    <!-- 菜单 -->
+    <string name="NewGroup">新建群组</string>
+    <string name="NewSecretChat">新建私密聊天</string>
+    <string name="NewChannel">新建频道</string>
+    <string name="Contacts">联系人</string>
+    <string name="Calls">通话</string>
+    <string name="Settings">设置</string>
+    <string name="SavedMessages">收藏夹</string>
+    
+    <!-- 设置 -->
+    <string name="NotificationsAndSounds">通知和声音</string>
+    <string name="PrivacySettings">隐私设置</string>
+    <string name="DataSettings">数据和存储</string>
+    <string name="ChatSettings">聊天设置</string>
+    <string name="Language">语言</string>
+    <string name="AskAQuestion">提问</string>
+    <string name="TelegramFAQ">Telegram 常见问题</string>
+    <string name="PrivacyPolicy">隐私政策</string>
+    
+    <!-- 个人资料 -->
+    <string name="YourName">您的名字</string>
+    <string name="YourLastName">您的姓氏</string>
+    <string name="Bio">个人简介</string>
+    <string name="Username">用户名</string>
+    <string name="PhoneNumber">手机号码</string>
+    
+    <!-- 通知 -->
+    <string name="MessageNotification">新消息</string>
+    <string name="NotificationMessageText">%1$s: %2$s</string>
+    <string name="NotificationMessageNoText">%1$s 给您发送了一条消息</string>
+    <string name="NotificationMessagePhoto">%1$s 给您发送了一张照片</string>
+    <string name="NotificationMessageVideo">%1$s 给您发送了一个视频</string>
+    
+    <!-- 媒体 -->
+    <string name="AttachPhoto">照片</string>
+    <string name="AttachVideo">视频</string>
+    <string name="AttachDocument">文件</string>
+    <string name="AttachLocation">位置</string>
+    <string name="AttachContact">联系人</string>
+    <string name="AttachPoll">投票</string>
+    
+    <!-- 群组 -->
+    <string name="Members">%1$s 位成员</string>
+    <string name="AddMember">添加成员</string>
+    <string name="GroupInfo">群组信息</string>
+    <string name="ChannelInfo">频道信息</string>
+    
+    <!-- 通用 -->
+    <string name="OK">确定</string>
+    <string name="Cancel">取消</string>
+    <string name="Done">完成</string>
+    <string name="Next">下一步</string>
+    <string name="Back">返回</string>
+    <string name="Send">发送</string>
+    <string name="Retry">重试</string>
+    <string name="Loading">加载中...</string>
+    
+    <!-- 状态 -->
+    <string name="Online">在线</string>
+    <string name="Offline">离线</string>
+    <string name="LastSeen">最近上线时间：%1$s</string>
+    <string name="Typing">正在输入...</string>
+    
+    <!-- 错误信息 -->
+    <string name="ConnectionError">连接错误</string>
+    <string name="NoInternet">没有网络连接</string>
+    <string name="ErrorOccurred">发生错误</string>
+</resources>
